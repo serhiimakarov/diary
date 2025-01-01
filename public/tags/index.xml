@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Serial Coder</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Serial Coder</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© serhiimakarov</copyright>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building-in-Public</title>
-      <link>//localhost:1313/tags/building-in-public/</link>
+      <link>/tags/building-in-public/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/building-in-public/</guid>
+      <guid>/tags/building-in-public/</guid>
       <description></description>
     </item>
     <item>
       <title>Career-Transition</title>
-      <link>//localhost:1313/tags/career-transition/</link>
+      <link>/tags/career-transition/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/career-transition/</guid>
+      <guid>/tags/career-transition/</guid>
       <description></description>
     </item>
     <item>
       <title>Entrepreneurship</title>
-      <link>//localhost:1313/tags/entrepreneurship/</link>
+      <link>/tags/entrepreneurship/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/entrepreneurship/</guid>
+      <guid>/tags/entrepreneurship/</guid>
       <description></description>
     </item>
     <item>
       <title>Getting-Started</title>
-      <link>//localhost:1313/tags/getting-started/</link>
+      <link>/tags/getting-started/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/getting-started/</guid>
+      <guid>/tags/getting-started/</guid>
       <description></description>
     </item>
     <item>
       <title>Software-Engineering</title>
-      <link>//localhost:1313/tags/software-engineering/</link>
+      <link>/tags/software-engineering/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/software-engineering/</guid>
+      <guid>/tags/software-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Solopreneur</title>
-      <link>//localhost:1313/tags/solopreneur/</link>
+      <link>/tags/solopreneur/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/solopreneur/</guid>
+      <guid>/tags/solopreneur/</guid>
       <description></description>
     </item>
   </channel>
