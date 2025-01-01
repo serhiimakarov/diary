@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Journey on </title>
+    <link>//localhost:1313/tags/personal-journey/</link>
+    <description>Recent content in Personal Journey on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 14:32:41 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/personal-journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Year, New Path: From Software Engineer to Solopreneur</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Wed, 01 Jan 2025 14:32:41 +0200</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;As I write these words on the first day of 2025, I find myself at a pivotal moment of transformation. After dedicating nearly a decade to software engineering, working with some of the most challenging codebases and innovative technologies, I&amp;rsquo;m embarking on an entirely new journey as a solopreneur.&lt;/p&gt;&#xA;&lt;p&gt;The past ten years in software engineering have been invaluable. They&amp;rsquo;ve taught me the importance of systematic thinking, problem-solving, and building scalable solutions. I&amp;rsquo;ve experienced the thrill of launching products, the satisfaction of optimizing complex systems, and the joy of collaborating with talented teams. However, throughout this time, I&amp;rsquo;ve felt a growing desire to create something of my own, to apply my technical expertise in a different context, and to explore the vast landscape of entrepreneurship.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
