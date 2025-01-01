@@ -10,7 +10,8 @@ pygmentscodefencesguesssyntax = true
 
 # disqusShortname = "yourDisqusShortname"
 
-paginate=3 # articles per page
+[pagination]
+	pagerSize=5 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
@@ -30,6 +31,17 @@ url = "https://github.com/serhii.makarov"
 name = "X"
 icon = "twitter"
 url = "https://twitter.com/serhii_makarov/"
+
+[[params.social]]
+name = "Threads"
+icon = "threads"
+url = "https://www.threads.net/@serhiimakarov"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/serhiimakarov"
+
 # Main menu Items
 
 [[menu.main]]

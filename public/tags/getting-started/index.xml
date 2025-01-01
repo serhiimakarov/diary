@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting-Started on Serial Coder</title>
-    <link>/tags/getting-started/</link>
+    <link>//localhost:1313/tags/getting-started/</link>
     <description>Recent content in Getting-Started on Serial Coder</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© serhiimakarov</copyright>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Initial Commit: Launching My Journey from Engineer to Solopreneur</title>
-      <link>/posts/01.hello-world/</link>
+      <link>//localhost:1313/posts/01.hello-world/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/01.hello-world/</guid>
+      <guid>//localhost:1313/posts/01.hello-world/</guid>
       <description>&lt;p&gt;Every significant project begins with that first commit – the initial push that sets everything in motion. Today, I&amp;rsquo;m making the most important commit of my career: the decision to transform my path from a 9-to-5 software engineer to an independent solopreneur. Like any good developer, I&amp;rsquo;m choosing to build this journey in public, documenting every step, success, and setback along the way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-build-in-public&#34;&gt;Why Build in Public?&lt;/h2&gt;&#xA;&lt;p&gt;The software development world has always championed open source – we share code, contribute to repositories, and learn from each other&amp;rsquo;s implementations. Building in public follows the same principle, but extends beyond just code. By sharing my journey transparently, I&amp;rsquo;m creating my own live documentation that others can learn from, fork, and improve upon.&lt;/p&gt;</description>
     </item>
   </channel>
