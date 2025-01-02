@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goal-Setting on Serial Coder</title>
+    <link>/tags/goal-setting/</link>
+    <description>Recent content in Goal-Setting on Serial Coder</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© serhiimakarov</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/goal-setting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Developer to Solopreneur: My Strategy for 2025</title>
+      <link>/posts/02.strategy-and-motivation/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/02.strategy-and-motivation/</guid>
+      <description>&lt;p&gt;Hello! I want to share with you my ambitious career transformation and personal development strategy for 2025. This is a story about how I plan to transition from a traditional developer job to the life of a successful solopreneur.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

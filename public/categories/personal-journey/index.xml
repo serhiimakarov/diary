@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Journey on Serial Coder</title>
+    <link>//localhost:1313/categories/personal-journey/</link>
+    <description>Recent content in Personal Journey on Serial Coder</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© serhiimakarov</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/personal-journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the 9-to-5: Engineering My Path to Financial Independence</title>
+      <link>//localhost:1313/posts/02.strategy-and-motivation/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/02.strategy-and-motivation/</guid>
+      <description>&lt;p&gt;Every morning, as I write code for someone else&amp;rsquo;s vision, I think about the products I could build, the problems I could solve, and the value I could create. Today marks the beginning of my intentional journey from software engineer to solopreneur. Here&amp;rsquo;s why I&amp;rsquo;m making this transition and how I plan to do it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-now&#34;&gt;Why Now?&lt;/h2&gt;&#xA;&lt;p&gt;As software engineers, we&amp;rsquo;re uniquely positioned in today&amp;rsquo;s digital economy. We understand how to build scalable systems, solve complex problems, and create value through code. Yet many of us spend our days implementing other people&amp;rsquo;s visions rather than creating our own impact.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -7,20 +7,48 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© serhiimakarov</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building-in-Public</title>
       <link>/tags/building-in-public/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/tags/building-in-public/</guid>
       <description></description>
     </item>
     <item>
       <title>Career-Transition</title>
       <link>/tags/career-transition/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/tags/career-transition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goal-Setting</title>
+      <link>/tags/goal-setting/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/goal-setting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>/tags/planning/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software-Engineering</title>
+      <link>/tags/software-engineering/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solopreneur</title>
+      <link>/tags/solopreneur/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/solopreneur/</guid>
       <description></description>
     </item>
     <item>
@@ -35,20 +63,6 @@
       <link>/tags/getting-started/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/tags/getting-started/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software-Engineering</title>
-      <link>/tags/software-engineering/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Solopreneur</title>
-      <link>/tags/solopreneur/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/solopreneur/</guid>
       <description></description>
     </item>
   </channel>

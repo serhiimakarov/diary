@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micro-Saas on Serial Coder</title>
+    <link>//localhost:1313/tags/micro-saas/</link>
+    <description>Recent content in Micro-Saas on Serial Coder</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© serhiimakarov</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/micro-saas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ship Fast, Ship Often: Building a $5K Product Portfolio One Launch at a Time</title>
+      <link>//localhost:1313/posts/02.strategy-and-motivation/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/02.strategy-and-motivation/</guid>
+      <description>&lt;p&gt;As software engineers, we understand that monolithic applications often become unwieldy and hard to maintain. Similarly, betting everything on a single product carries unnecessary risk. Today, I&amp;rsquo;m sharing my strategy to reach $5,000 monthly revenue through rapid development and launch of multiple focused software products.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-multi-product-strategy&#34;&gt;The Multi-Product Strategy&lt;/h2&gt;&#xA;&lt;p&gt;Instead of spending months building one perfect solution, I&amp;rsquo;m taking inspiration from continuous deployment practices. The plan is to ship multiple smaller, focused products that each solve a specific problem. This approach allows for faster market validation and reduces the risk of spending too much time on ideas that might not resonate.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
