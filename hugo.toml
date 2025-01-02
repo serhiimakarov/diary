@@ -9,6 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # disqusShortname = "yourDisqusShortname"
+googleAnalytics = "G-6GSDSPRWHT"
 
 [pagination]
 	pagerSize=5 # articles per page
